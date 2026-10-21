@@ -9,27 +9,30 @@ Seslendirmede ücretsiz ve açık kaynak **Piper** Türkçe sesi (`tr_TR-dfki-me
 | Dosya | Açıklama |
 | --- | --- |
 | `cikti/KPSS-Tarih-Konu-Anlatimi.pdf` | Kapak, içindekiler, yer imleri, KPSS notu kutuları ve kronoloji tablolarıyla tüm üniteler |
+| `cikti/KPSS-Tarih-Tum-Uniteler.mp3` | 15 ünitenin tamamı tek dosyada (yaklaşık 3 saat 43 dakika) |
 | `cikti/mp3/01-...mp3` ... `15-...mp3` | Her ünitenin ayrı ses dosyası (PDF'teki metnin birebir okunuşu) |
 | `metin/*.md` | Ünite metinleri (PDF de ses de buradan üretilir) |
 | `araclar/` | PDF ve MP3 üreten betikler |
 
 ## Üniteler
 
-1. İslamiyet Öncesi Türk Tarihi
-2. İlk Türk-İslam Devletleri
-3. Türkiye Selçuklu Devleti ve Anadolu Beylikleri
-4. Osmanlı Devleti Kuruluş Dönemi (1299-1453)
-5. Osmanlı Devleti Yükselme Dönemi (1453-1579)
-6. Osmanlı Kültür ve Medeniyeti
-7. 17. Yüzyılda Osmanlı Devleti (Duraklama)
-8. 18. Yüzyılda Osmanlı Devleti (Gerileme)
-9. 19. Yüzyılda Osmanlı Devleti (Dağılma)
-10. 20. Yüzyıl Başlarında Osmanlı ve Birinci Dünya Savaşı
-11. Kurtuluş Savaşı Hazırlık Dönemi
-12. Kurtuluş Savaşı: Cepheler ve Antlaşmalar
-13. Atatürk İlke ve İnkılapları
-14. Atatürk Dönemi Türk Dış Politikası
-15. Çağdaş Türk ve Dünya Tarihi
+| No | Ünite | Ses süresi |
+| --- | --- | --- |
+| 1 | İslamiyet Öncesi Türk Tarihi | 18 dk |
+| 2 | İlk Türk-İslam Devletleri | 19 dk |
+| 3 | Türkiye Selçuklu Devleti ve Anadolu Beylikleri | 13 dk |
+| 4 | Osmanlı Devleti Kuruluş Dönemi (1299-1453) | 11 dk |
+| 5 | Osmanlı Devleti Yükselme Dönemi (1453-1579) | 16 dk |
+| 6 | Osmanlı Kültür ve Medeniyeti | 14 dk |
+| 7 | 17. Yüzyılda Osmanlı Devleti (Duraklama) | 12 dk |
+| 8 | 18. Yüzyılda Osmanlı Devleti (Gerileme) | 12 dk |
+| 9 | 19. Yüzyılda Osmanlı Devleti (Dağılma) | 19 dk |
+| 10 | 20. Yüzyıl Başlarında Osmanlı ve Birinci Dünya Savaşı | 14 dk |
+| 11 | Kurtuluş Savaşı Hazırlık Dönemi | 17 dk |
+| 12 | Kurtuluş Savaşı: Cepheler ve Antlaşmalar | 15 dk |
+| 13 | Atatürk İlke ve İnkılapları | 16 dk |
+| 14 | Atatürk Dönemi Türk Dış Politikası | 9 dk |
+| 15 | Çağdaş Türk ve Dünya Tarihi | 18 dk |
 
 ## Yeniden Üretmek
 
